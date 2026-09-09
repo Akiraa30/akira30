@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👨‍💻 I'm Akira</h1>
 
 <p align="center">
-🎮 Game Developer | 🐍 Python Learner | 🚀 Future Game Programmer
+🎮 Game Developer | 💻 Programmer | 🚀 Future Game Developer
 </p>
 
 <p align="center">
@@ -14,20 +14,21 @@
 
 ## 👨‍💻 About Me
 
-I'm focused on learning programming and game development through practical projects.
+I'm focused on programming and game development, building projects to improve my practical skills.
 
 * 🎮 Interested in Game Development
-* 🐍 Currently learning Python
+* 🐍 Proficient in Python
+* ⚡ Currently learning C++
+* 🔷 Currently learning C#
 * 🎮 Exploring Unity
-* 🛠️ Building small tools and projects
-* 📈 Improving through hands-on development
+* 🛠️ Building practical projects and developer tools
 
 > "I write code that works, but understanding it is a whole different project." 💀
 
-## 🛠️ Skills
+## 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,unity" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,unity" />
 </p>
 
 ## 🚀 Projects
