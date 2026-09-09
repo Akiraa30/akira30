@@ -46,7 +46,7 @@ A Windows utility for checking PC system information and compatibility.
 ## 📫 Contact
 
 <p>
-<a href="mailto:prerit.gamedev@gmail.com">
+<a href="mailto: akiradiess@gmail.com">
 <img src="https://img.shields.io/badge/Email-prerit.gamedev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
